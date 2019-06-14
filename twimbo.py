@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-import tweepy
 import click
+import tweepy
 from tweepy.auth import OAuthHandler
 
 consumer_key = 'Q47knI9nZpfMzKm0fcDWd'
