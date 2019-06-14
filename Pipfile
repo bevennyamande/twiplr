@@ -6,10 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+click = "*"
 tweepy = "*"
-pygal = "*"
-flask = "*"
-gunicorn = "*"
 
 [requires]
 python_version = "3.7"
